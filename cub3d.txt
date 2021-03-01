@@ -1,0 +1,5 @@
+cc -I  /usr/local/lib -lmlx -framework OpenGL -framework AppKit  main.c error.c events.c images.c map.c raycasting.c textures.c
+
+gcc -lmlx -framework AppKit main.c error.c events.c images.c map.c raycasting.c textures.c
+
+gcc -lmlx -framework OpenGL -framework AppKit main.c error.c events.c images.c map.c raycasting.c textures.c
