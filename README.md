@@ -3,3 +3,5 @@
 https://github.com/l-yohai/cub3d/tree/master/mlx_example
 
 https://lodev.org/cgtutor/raycasting.html
+
+https://github.com/taelee42/mlx_example
