@@ -17,7 +17,7 @@ Done with Norminette v3.
 
 **** Results ****
 
-![GitHub Logo](/extras/images/cub3D_leaks_maps_tester.png
+![GitHub Logo](/extras/images/cub3D_leaks_maps_tester.png\
 
 
 
