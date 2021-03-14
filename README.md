@@ -19,7 +19,7 @@ Done with Norminette v3.
 
 ![GitHub Logo](/extras/images/cub3D_leaks_maps_tester.png)
 
-
+I've changed a few "Invalid Maps" from the tester accordingly to what I interpreted from the .pdf as correct and wrong.
 
 
 https://github.com/l-yohai/cub3d/tree/master/mlx_example
