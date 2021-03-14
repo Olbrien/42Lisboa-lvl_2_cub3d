@@ -1,7 +1,5 @@
 # cub3d
 
-![GitHub Logo](/extras/images/Success.png)
-
 ###### <i>Recent Update on 14/03/2021.</i>
 Done everything I could. Waiting for upload.
 
