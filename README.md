@@ -28,3 +28,23 @@ https://lodev.org/cgtutor/raycasting.html
 
 https://github.com/taelee42/mlx_example
 
+
+
+
+gcc -Wall -Wextra -Werror -fsanitize=address cub3d.c ./sources/utils/*.c ./sources/map/map.c ./sources/events/events.c ./sources/get_next_line/*.c ./sources/libft/*.c ./sources/file_parsing/*.c ./sources/file_parsing/elements_parsing/*.c ./sources/file_parsing/map_parsing/*.c ./sources/textures/textures.c  ./sources/events/raycasting/*.c ./sources/events/keys/keys_1.c ./sources/events/keys/keys_2.c -lbsd -lmlx -lXext -lX11 -lm
+
+gcc -fsanitize=address cub3d.c ./sources/utils/*.c ./sources/events/events.c ./sources/map/map.c ./sources/get_next_line/*.c ./sources/libft/*.c ./sources/file_parsing/*.c ./sources/file_parsing/elements_parsing/*.c ./sources/file_parsing/map_parsing/*.c ./sources/textures/textures.c  ./sources/events/raycasting/*.c ./sources/events/keys/keys_1.c ./sources/events/keys/keys_2.c  -lbsd -lmlx -lXext -lX11 -lm
+
+gcc cub3d.c ./sources/utils/*.c ./sources/events/events.c ./sources/get_next_line/*.c  ./sources/map/map.c ./sources/libft/*.c ./sources/file_parsing/*.c ./sources/file_parsing/elements_parsing/*.c ./sources/file_parsing/map_parsing/*.c ./sources/textures/textures.c ./sources/events/raycasting/*.c ./sources/events/keys/keys_1.c ./sources/events/keys/keys_2.c -lbsd -lmlx -lXext -lX11 -lm
+
+
+Cenas para alterar e verificar no Mac:
+
+Mudar o hook 33 (Destroy Window) para 17. Porque no Linux é 33.
+Meter os a Cruz com as cenas do Mac.
+
+Ver o limite da window do Mac e alterar conforme.
+
+Correr isto sem o -fsanitize=address no live. -fsanitize=address buga isto e crasha.
+
+Não estás a usar os keys.h. Apaguei. Possívelmente vou precisar.
