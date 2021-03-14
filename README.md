@@ -6,6 +6,11 @@ Done everything I could. Waiting for upload.
 ###### <i>Old Update on 13/03/2021.</i>
 Done with Norminette v3.
 
+**** Pictures ****
+
+![GitHub Logo](/extras/images/picture_1.png)\
+![GitHub Logo](/extras/images/picture_2.png)\
+
 **** Tests ****
 
 [cub3D_leaks_maps_tester](https://github.com/mlaraki/cub3D_leaks_maps_tester)\
