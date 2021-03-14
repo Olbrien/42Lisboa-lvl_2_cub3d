@@ -1,0 +1,21 @@
+R 1000 640
+NO ./textures/redbrick.xpm
+SO ./textures/eagle.xpm
+WE ./textures/purplestone.xpm
+EA ./textures/greystone.xpm
+S ./textures/greenlight.xpm
+F 182, 192, 182
+C 192, 182, 182
+
+11
+111
+1011
+10011
+10001
+10001
+1N0011
+100001
+1000011111
+1000000001
+1000200111
+111111111
