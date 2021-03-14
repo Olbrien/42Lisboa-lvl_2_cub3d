@@ -1,15 +1,22 @@
-# lvl_2_cub3d
+# cub3d
 
-Ficheiros já organizados. Norminette é mais facil agora.
-Começar a ver agora os requisitos e tentar fazer-los.
+![GitHub Logo](/extras/images/Success.png)
 
-gcc cub3d.c ./sources/utils/error.c ./sources/events/events.c ./sources/textures/textures.c  ./sources/map/map.c ./sources/events/raycasting/sprites.c ./sources/events/raycasting/walls.c ./sources/events/raycasting/draw.c ./sources/events/raycasting/floor_and_ceiling.c  ./sources/events/keys/keys_1.c ./sources/events/keys/keys_2.c -lbsd -lmlx -lXext -lX11 -lm
+###### <i>Recent Update on 14/03/2021.</i>
+Done everything I could. Waiting for upload.
 
-cc -I  /usr/local/lib -lmlx -framework OpenGL -framework AppKit  main.c error.c events.c images.c map.c raycasting.c textures.c
+###### <i>Old Update on 13/03/2021.</i>
+Done with Norminette v3.
 
-gcc -lmlx -framework AppKit main.c error.c events.c images.c map.c raycasting.c textures.c
+**** Tests ****
 
-gcc -lmlx -framework OpenGL -framework AppKit main.c error.c events.c images.c map.c raycasting.c textures.c
+[cub3D_leaks_maps_tester](https://github.com/mlaraki/cub3D_leaks_maps_tester)\
+
+**** Results ****
+
+![GitHub Logo](/extras/images/cub3D_leaks_maps_tester.png)\
+
+
 
 
 https://github.com/l-yohai/cub3d/tree/master/mlx_example
