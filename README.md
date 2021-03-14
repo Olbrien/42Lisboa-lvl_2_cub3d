@@ -9,15 +9,15 @@ Done with Norminette v3.
 **** Pictures ****
 
 ![GitHub Logo](/extras/images/picture_1.png)\
-![GitHub Logo](/extras/images/picture_2.png)\
+![GitHub Logo](/extras/images/picture_2.png)
 
 **** Tests ****
 
-[cub3D_leaks_maps_tester](https://github.com/mlaraki/cub3D_leaks_maps_tester)\
+[cub3D_leaks_maps_tester](https://github.com/mlaraki/cub3D_leaks_maps_tester)
 
 **** Results ****
 
-![GitHub Logo](/extras/images/cub3D_leaks_maps_tester.png)\
+![GitHub Logo](/extras/images/cub3D_leaks_maps_tester.png\
 
 
 
