@@ -37,6 +37,12 @@ gcc -fsanitize=address cub3d.c ./sources/utils/*.c ./sources/events/events.c ./s
 
 gcc cub3d.c ./sources/utils/*.c ./sources/events/events.c ./sources/get_next_line/*.c  ./sources/map/map.c ./sources/libft/*.c ./sources/file_parsing/*.c ./sources/file_parsing/elements_parsing/*.c ./sources/file_parsing/map_parsing/*.c ./sources/textures/textures.c ./sources/events/raycasting/*.c ./sources/events/keys/keys_1.c ./sources/events/keys/keys_2.c -lbsd -lmlx -lXext -lX11 -lm
 
+gcc -I  /usr/local/lib -lmlx -framework OpenGL -framework AppKit  main.c error.c events.c images.c map.c raycasting.c textures.c
+
+gcc -lmlx -framework AppKit main.c error.c events.c images.c map.c raycasting.c textures.c
+
+gcc -lmlx -framework OpenGL -framework AppKit main.c error.c events.c images.c map.c raycasting.c textures.c
+
 
 Cenas para alterar e verificar no Mac:
 
