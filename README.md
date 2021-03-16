@@ -25,9 +25,11 @@ Done with Norminette v3.
 *I've changed a few "Invalid Maps" from the tester accordingly to what I interpreted from the .pdf as correct or wrong.*
 
 
-https://github.com/l-yohai/cub3d/tree/master/mlx_example
+
+**** Info ****
+
+These links helped me with the project.
 
 https://lodev.org/cgtutor/raycasting.html
-
-https://github.com/taelee42/mlx_example
+https://github.com/l-yohai/cub3d/tree/master/mlx_example
 
