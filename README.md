@@ -30,6 +30,6 @@ Done with Norminette v3.
 
 These links helped me with the project.
 
-https://lodev.org/cgtutor/raycasting.html
+https://lodev.org/cgtutor/raycasting.html\
 https://github.com/l-yohai/cub3d/tree/master/mlx_example
 
