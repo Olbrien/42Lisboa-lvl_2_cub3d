@@ -73,7 +73,7 @@ Then, I added a different char on the spaces to identify better the surroundings
 #######1000000000000000000000001###
 #######100000000200000020000W001###
 #######1000000000000000000000001###
-#111111111000000000000000000000001#
+#1111111000000000000000000000001###
 #100000000000111111100000000111111#
 #1000000000001#####10000000001#####
 #1000000000001#####10000200001#####
@@ -95,7 +95,7 @@ And then I added a border.
 *#######1000000000000000000000001###*
 *#######100000000200000020000W001###*
 *#######1000000000000000000000001###*
-*#111111111000000000000000000000001#*
+*#1111111000000000000000000000001###*
 *#100000000000111111100000000111111#*
 *#1000000000001#####10000000001#####*
 *#1000000000001#####10000200001#####*
@@ -109,6 +109,6 @@ And then I added a border.
 ************************************
 </pre>
 
-After doing this, I could now check if the '#' are surrounded by 1's or *'s, if they are not, it means the maps is not enclosed.
+After doing this, I could now check if the '#' are surrounded by 1's or *'s, if they are not, it means the map is not enclosed.
 
 Then you should start to do the raycast following the Lodev guide. If you are having trouble following his guide, the link below it has his code translated to C.
