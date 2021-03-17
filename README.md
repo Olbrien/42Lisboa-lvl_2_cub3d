@@ -28,8 +28,17 @@ Done with Norminette v3.
 
 **** Info ****
 
+To run my project on Mac simply type "Make" or "Make re" to compile and run one of each map that isn't _bonus.cub \
+To run my project on Linux simply type "Make linux" to compile and run one of each map that isn't _bonus.cub \
+`./cub3D ./maps/test.cub` \
+`./cub3D ./maps/test2.cub` 
+
+To run the Bonus project, on Mac type "Make bonus", on Linux type "Make linux_bonus" and run the map that ends with _bonus.cub \
+`./cub3D ./maps/test_bonus.cub` 
+
 These links helped me with the project.
 
 https://lodev.org/cgtutor/raycasting.html \
 https://github.com/l-yohai/cub3d/tree/master/mlx_example
+
 
