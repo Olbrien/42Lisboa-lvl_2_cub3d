@@ -14,7 +14,7 @@ Done with Norminette v3.
 ![GitHub Logo](/extras/images/picture_1.png)\
 ![GitHub Logo](/extras/images/picture_2.png)
 
-**** Tests ****
+**** Testers ****
 
 [cub3D_leaks_maps_tester](https://github.com/mlaraki/cub3D_leaks_maps_tester)
 
@@ -23,7 +23,6 @@ Done with Norminette v3.
 ![GitHub Logo](/extras/images/cub3D_leaks_maps_tester.png)
 
 *I've changed a few "Invalid Maps" from the tester accordingly to what I interpreted from the .pdf as correct or wrong.*
-
 
 
 **** Info ****
