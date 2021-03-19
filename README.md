@@ -1,7 +1,10 @@
 # cub3d
 
-###### <i>Recent Update on 16/03/2021.</i>
-Done everything I could. Waiting for upload.
+![GitHub Logo](/extras/images/Success.png)
+
+###### <i>Recent Update on 18/03/2021.</i>
+Finished the project.\
+All files delivered with Old Norminette.
 
 ###### <i>Old Update on 15/03/2021.</i>
 Done with old Norminette.
