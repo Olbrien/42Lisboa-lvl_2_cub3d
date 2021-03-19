@@ -109,10 +109,10 @@ And then I added a border.
 *#10000001#1000001#100000000001#####*
 *#11111111#1111111#111111111111#####*
 *###################################*
-************************************
+*************************************
 </pre>
 
-After doing this, I could now check if the '#' are surrounded by 1's or *'s, if they are not, it means the map is not enclosed.
+After doing this, I could now check if the '#' are surrounded by 1's, #'s or *'s, if they are not, it means the map is not enclosed.
 
 Then you should start to do the raycast following the Lodev guide. If you are having trouble following his guide, the link below it has his code translated to C.
 I'd advice doing it from Lodev and not the translation. It's easier to understand the concept following each step.
