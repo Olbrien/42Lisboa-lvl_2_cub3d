@@ -6,13 +6,13 @@
 /*   By: tisantos <tisantos@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/12/16 17:21:37 by marvin            #+#    #+#             */
-/*   Updated: 2021/03/17 02:21:34 by tisantos         ###   ########.fr       */
+/*   Updated: 2021/03/19 15:02:41 by tisantos         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-static void	clear_both(t_list **lst, t_list **new_lst, void (*del)(void *))
+static	void	clear_both(t_list **lst, t_list **new_lst, void (*del)(void *))
 {
 	ft_lstclear(lst, del);
 	ft_lstclear(new_lst, del);

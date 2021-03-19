@@ -6,7 +6,7 @@
 /*   By: tisantos <tisantos@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/02 19:38:36 by tisantos          #+#    #+#             */
-/*   Updated: 2021/03/17 02:07:46 by tisantos         ###   ########.fr       */
+/*   Updated: 2021/03/19 14:49:35 by tisantos         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -58,7 +58,7 @@ static void	add_from_file_to_game(t_mlx *mlx, t_parse *parse)
 	mlx->planey = parse->temp_plane_y;
 }
 
-void	initialize_values(t_mlx *mlx)
+static void	initialize_values(t_mlx *mlx)
 {
 	int	i;
 	int	j;
@@ -86,7 +86,7 @@ void	initialize_values(t_mlx *mlx)
 	}
 }
 
-int	main2(int argc, char *argv[], t_mlx *mlx, t_parse *parse)
+static int	main2(int argc, char *argv[], t_mlx *mlx, t_parse *parse)
 {
 	mlx->save_bmp = 0;
 	if (argc <= 1 || argc >= 4)
