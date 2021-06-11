@@ -1,34 +1,33 @@
-# cub3d
-
 ![GitHub Logo](/extras/images/Success.png)
-
 ###### <i>Recent Update on 18/03/2021.</i>
-Finished the project.\
-All files delivered with Old Norminette.
+• Finished the project.\
+• All files delivered with Old Norminette.
 
 ###### <i>Old Update on 15/03/2021.</i>
-Done with old Norminette.
+• Done with old Norminette.
 
 ###### <i>Old Update on 13/03/2021.</i>
-Done with Norminette v3.
+• Done with Norminette v3.
 
-**** Pictures ****
+## Subject
+
+You can find the subject of this project [here.](https://github.com/Olbrien/42Lisboa-lvl_2_cub3d/blob/main/extras/cub3d.pdf)
 
 ![GitHub Logo](/extras/images/picture_1.png)\
 ![GitHub Logo](/extras/images/picture_2.png)
 
-**** Testers ****
+## Testers
 
 [cub3D_leaks_maps_tester](https://github.com/mlaraki/cub3D_leaks_maps_tester)
 
-**** Results ****
+## Results
 
 ![GitHub Logo](/extras/images/cub3D_leaks_maps_tester.png)
 
 *I've changed a few "Invalid Maps" from the tester accordingly to what I interpreted from the .pdf as correct or wrong.*
 
 
-**** Info ****
+## Info
 
 To install Minilibx on Linux:
 <pre>
